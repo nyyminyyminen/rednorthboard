@@ -355,5 +355,5 @@ display: inline;
 */
 ```
 
-[Link](url) and ![https://imgur.com/gWAMXrr.jpg](src)
+<img src="https://camo.githubusercontent.com/fe8a184c178f96b2b68b7037f07044ddc0e88100/68747470733a2f2f6173736574732d63646e2e6769746875622e636f6d2f696d616765732f69636f6e732f656d6f6a692f6f63746f6361742e706e67" alt="" data-canonical-src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" style="max-width:100%;">
 

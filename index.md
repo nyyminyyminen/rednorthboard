@@ -6,7 +6,7 @@ Teema ei ole täydellinen, mutta käyttökelpoinen. Muutamia CSS-määrityksiä 
 
 ### CSS-koodi
 
-Alla CSS-määritykset, jotta saat otettua teeman omaan käyttöön itsellesi.
+Alla CSS-määritykset, jotta saat otettua teeman käyttöösi.
 
 ```markdown
 body.menu_opened #left nav {

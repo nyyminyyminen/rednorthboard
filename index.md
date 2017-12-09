@@ -56,7 +56,7 @@ display: none;
 
 .tags:before {
 content: 'Anonyymi';
-color: #93E3FF;
+color: #ff5656;
 font-weight: 600;
 }
 

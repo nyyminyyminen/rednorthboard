@@ -4,7 +4,7 @@ Teema ei ole täydellinen, mutta käyttökelpoinen. Muutamia CSS-määrityksiä 
 
 <img src="https://imgur.com/gWAMXrr.jpg" alt="Ylilauta" data-canonical-src="https://imgur.com/gWAMXrr.jpg">
 
-### CSS
+### CSS-koodi
 
 Alla CSS-määritykset, jotta saat otettua teeman omaan käyttöön itsellesi.
 

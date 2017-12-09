@@ -355,5 +355,5 @@ display: inline;
 */
 ```
 
-[Link](url) and ![Image](src)
+[Link](url) and ![https://imgur.com/gWAMXrr.jpg](src)
 

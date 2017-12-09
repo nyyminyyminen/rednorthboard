@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Punainen versio Ylilaudan teemasta Northboard
 
 You can use the [editor on GitHub](https://github.com/nyyminyyminen/rednorthboard1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-[image](https://imgur.com/gWAMXrr.jpg)
 
 <img src="https://imgur.com/gWAMXrr.jpg" alt="Ylilauta" data-canonical-src="https://imgur.com/gWAMXrr.jpg">
 

@@ -1,3 +1,4 @@
 # rednorthboard
-Punainen versio Ylilaudan Nortboard teemasta
+Punainen versio Ylilaudan Nortboard teemasta.
+
 Sisältää CSS-määritykset

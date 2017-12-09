@@ -1,14 +1,12 @@
 ## Punainen versio Ylilaudan teemasta Northboard
 
-You can use the [editor on GitHub](https://github.com/nyyminyyminen/rednorthboard1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Teema ei ole täydellinen, mutta käyttökelpoinen. Muutamia CSS-määrityksiä puuttuu, mutta ei haittaa juurikaan. Teeman käyttö vaatii kulta- tai platinatilin.
 
 <img src="https://imgur.com/gWAMXrr.jpg" alt="Ylilauta" data-canonical-src="https://imgur.com/gWAMXrr.jpg">
 
-### Markdown
+### CSS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Alla CSS-määritykset, jotta saat otettua teeman omaan käyttöön itsellesi.
 
 ```markdown
 body.menu_opened #left nav {

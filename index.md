@@ -1,4 +1,4 @@
-## Punainen versio Ylilaudan teemasta Northboard
+## Punainen versio Ylilaudan Nortboard teemasta
 
 Teema ei ole täydellinen, mutta käyttökelpoinen. Muutamia CSS-määrityksiä puuttuu, mutta ei haittaa käyttöä millään tavalla. Teeman käyttö vaatii kulta- tai platinatilin.
 

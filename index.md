@@ -49,6 +49,18 @@ color: #cc3636;
 }
 
 
+.postername {
+display: none;
+}
+
+
+.tags:before {
+content: 'Anonyymi';
+color: #93E3FF;
+font-weight: 600;
+}
+
+
 .pure-table {
 border: 1px solid #000;
 }

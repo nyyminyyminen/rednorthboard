@@ -4,13 +4,14 @@ Teema ei ole täydellinen, mutta käyttökelpoinen. Muutamia CSS-määrityksiä 
 
 <img src="https://imgur.com/gWAMXrr.jpg" alt="Ylilauta" data-canonical-src="https://imgur.com/gWAMXrr.jpg">
 
+### Käyttöönotto
+- Siirry Asetukset ja profiili sivulle
+- Etsi kohta "Omat CSS-määritykset" ja klikkaa sen alla olevaa painiketta
+- Liitä alhaalla oleva CSS-koodin pätkä kenttään ja tallenna
+
 ### CSS-koodi
 
 Alla CSS-määritykset, jotta saat otettua teeman käyttöösi.
-
-### Käyttöönotto
--1. Numbered		
--2. List
 
 ```markdown
 body.menu_opened #left nav {

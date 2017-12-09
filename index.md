@@ -8,6 +8,10 @@ Teema ei ole täydellinen, mutta käyttökelpoinen. Muutamia CSS-määrityksiä 
 
 Alla CSS-määritykset, jotta saat otettua teeman käyttöösi.
 
+### Käyttöönotto
+-1. Numbered		
+-2. List
+
 ```markdown
 body.menu_opened #left nav {
 border-bottom: 1px solid #cc3636;

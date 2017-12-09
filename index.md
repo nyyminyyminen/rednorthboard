@@ -1,6 +1,6 @@
 ## Punainen versio Ylilaudan Nortboard teemasta
 
-Teema ei ole täydellinen, mutta käyttökelpoinen. Muutamia CSS-määrityksiä puuttuu, mutta ei haittaa käyttöä millään tavalla. Teeman käyttö vaatii kulta- tai platinatilin.
+Teema ei ole täydellinen, mutta käyttökelpoinen. Muutamia CSS-määrityksiä puuttuu, mutta ei haittaa käyttöä millään tavalla. Teeman käyttö vaatii kultatilin.
 
 <img src="https://imgur.com/gWAMXrr.jpg" alt="Ylilauta" data-canonical-src="https://imgur.com/gWAMXrr.jpg">
 

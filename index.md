@@ -7,7 +7,7 @@ Teema ei ole täydellinen, mutta käyttökelpoinen. Muutamia CSS-määrityksiä 
 ### Käyttöönotto
 - Siirry Asetukset ja profiili sivulle
 - Etsi kohta "Omat CSS-määritykset" ja klikkaa sen alla olevaa painiketta
-- Liitä alhaalla oleva CSS-koodin pätkä kenttään ja tallenna
+- Liitä alhaalla oleva CSS-koodinpätkä kenttään ja tallenna
 
 ### CSS-koodi
 

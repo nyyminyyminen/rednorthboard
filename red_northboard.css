@@ -64,6 +64,10 @@ border-left: 1px solid #000;
 background-color: #000;
 }
 
+.boardheader h1 {
+color: #cc3636;
+}
+
 
 .infobar {
 background-color: #cc3636;

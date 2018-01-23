@@ -391,5 +391,14 @@ display: inline;
 }
 
 */
+
+
+/* Puhelimella langan jakonappi pois?
+
+.icon-share2 {
+display: none;
+}
+
+*/
 ```
 

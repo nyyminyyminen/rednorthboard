@@ -49,11 +49,6 @@ color: #cc3636;
 }
 
 
-.icon-share2 {
-display: none;
-}
-
-
 .postername {
 display: none;
 }
@@ -205,7 +200,7 @@ color: red;
 
 
 #right .threads.style-box .thread, #right .threads.style-box .hidden {
-    border: 1px solid #cc3636;
+border: 1px solid #cc3636;
 }
 
 
@@ -376,6 +371,11 @@ border: 1px solid #cc3636;
 #right .threads .thread .answer.highlighted {
 background-color: #252525;
 border-color: #cd3736;
+}
+
+
+#right form#post #postbuttons #colorbuttons {
+border-top: 1px solid #cd3736;
 }
 
 

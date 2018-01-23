@@ -49,6 +49,11 @@ color: #cc3636;
 }
 
 
+.icon-share2 {
+display: none;
+}
+
+
 .postername {
 display: none;
 }
@@ -79,6 +84,7 @@ border-left: 1px solid #000;
 .pure-table-striped tr:nth-child(2n-1) td { 
 background-color: #000;
 }
+
 
 .boardheader h1 {
 color: #cc3636;
@@ -165,6 +171,11 @@ color: #cc3636;
 
 #left a:not(.logo):hover {
 background: #351515;
+}
+
+
+#right .hidden [class^="icon-"], #right .hidden [class*=" icon-"] {
+background-color: #cd3736;
 }
 
 
@@ -294,7 +305,7 @@ background-color: #252525;
 
 
 #right .threads .thread .answer {
-background-color: #1c1c1c;
+background-color: #252525;
 border-bottom: 1px solid #cc3636;
 border-right: 1px solid #cc3636;
 }
@@ -359,6 +370,12 @@ background-color: #1c1c1c;
 
 #right .thread .answers .answer {
 border: 1px solid #cc3636;
+}
+
+
+#right .threads .thread .answer.highlighted {
+background-color: #252525;
+border-color: #cd3736;
 }
 
 

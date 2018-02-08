@@ -1,5 +1,5 @@
 # Red Northboard
-Punainen versio Ylilaudan Nortboard teemasta
+>Punainen versio Ylilaudan Nortboard teemasta
 
 # Teeman käyttöönotto
 >Siirry Asetukset ja profiili sivulle

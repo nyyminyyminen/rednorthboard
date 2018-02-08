@@ -49,18 +49,6 @@ color: #cc3636;
 }
 
 
-.postername {
-display: none;
-}
-
-
-.tags:before {
-content: 'Anonyymi';
-color: #ff5656;
-font-weight: 600;
-}
-
-
 .pure-table {
 border: 1px solid #000;
 }
@@ -400,5 +388,20 @@ display: none;
 }
 
 */
-```
 
+
+/* Vaihtaa kaikkien nimeksi nimimerkistä huolimatta Anonyymi
+
+.postername {
+display: none;
+}
+
+
+.tags:before {
+content: 'Anonyymi';
+color: #ff5656;
+font-weight: 600;
+}
+
+*/
+```

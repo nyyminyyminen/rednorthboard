@@ -33,18 +33,6 @@ color: #cc3636;
 }
 
 
-.postername {
-display: none;
-}
-
-
-.tags:before {
-content: 'Anonyymi';
-color: #ff5656;
-font-weight: 600;
-}
-
-
 .pure-table {
 border: 1px solid #000;
 }
@@ -63,6 +51,7 @@ border-left: 1px solid #000;
 .pure-table-striped tr:nth-child(2n-1) td { 
 background-color: #000;
 }
+
 
 .boardheader h1 {
 color: #cc3636;
@@ -152,6 +141,11 @@ background: #351515;
 }
 
 
+#right .hidden [class^="icon-"], #right .hidden [class*=" icon-"] {
+background-color: #cd3736;
+}
+
+
 #right .threads .thread .goldhide-info {
 border-top: 1px solid #cc3636;
 }
@@ -178,7 +172,7 @@ color: red;
 
 
 #right .threads.style-box .thread, #right .threads.style-box .hidden {
-    border: 1px solid #cc3636;
+border: 1px solid #cc3636;
 }
 
 
@@ -278,7 +272,7 @@ background-color: #252525;
 
 
 #right .threads .thread .answer {
-background-color: #1c1c1c;
+background-color: #252525;
 border-bottom: 1px solid #cc3636;
 border-right: 1px solid #cc3636;
 }
@@ -346,6 +340,17 @@ border: 1px solid #cc3636;
 }
 
 
+#right .threads .thread .answer.highlighted {
+background-color: #252525;
+border-color: #cd3736;
+}
+
+
+#right form#post #postbuttons #colorbuttons {
+border-top: 1px solid #cd3736;
+}
+
+
 /* Tägit pois näkyvistä?
 
 .tag {
@@ -355,6 +360,31 @@ display: none;
 
 .postedbyop, .admin {
 display: inline;
+}
+
+*/
+
+
+/* Puhelimella langan jakonappi pois?
+
+.icon-share2 {
+display: none;
+}
+
+*/
+
+
+/* Vaihtaa kaikkien nimeksi nimimerkistä huolimatta Anonyymi
+
+.postername {
+display: none;
+}
+
+
+.tags:before {
+content: 'Anonyymi';
+color: #ff5656;
+font-weight: 600;
 }
 
 */
